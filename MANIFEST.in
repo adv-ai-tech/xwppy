@@ -1,0 +1,15 @@
+xwppy
+|
+|
+|__ src
+|     |__ xwppy.py
+|     |__ 
+|     |__ __init__.py
+|
+|__ setup.py
+|
+|__ LICENSE.md
+|
+|__ MANIFEST.in
+|
+|__ README.md

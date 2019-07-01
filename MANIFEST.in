@@ -3,7 +3,7 @@ xwppy
 |
 |__ src
 |     |__ xwppy.py
-|     |__ 
+|     |__ wpcli.py
 |     |__ __init__.py
 |
 |__ setup.py
